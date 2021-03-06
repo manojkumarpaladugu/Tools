@@ -1,10 +1,10 @@
 <h3>1. cpy_recur.bat</h3>
-<h4>Usage:</h4>
+__Usage__
  <pre>
  cpy_recur.bat C:\folder1 C:\folder2
  </pre>
 
-<h4>Flag Explanation:</h4>
+**Flag Explanation:**
 1. /e Copies directories and subdirectories, including empty ones.
 1. /k Copies attributes. Normal Xcopy will reset read-only attributes.
 1. /h Copies hidden and system files also.
