@@ -1,4 +1,4 @@
-###### 1. cpy_recur.bat
+######### cpy_recur.bat
 **Usage:**
 <pre>
 cpy_recur.bat C:\folder1 C:\folder2
