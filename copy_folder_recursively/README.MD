@@ -1,5 +1,5 @@
 <h3>1. cpy_recur.bat</h3>
-__Usage__
+**Usage:**
 cpy_recur.bat C:\folder1 C:\folder2
 
 __Flag Explanation:__
