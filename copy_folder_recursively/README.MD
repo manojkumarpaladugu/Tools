@@ -2,9 +2,9 @@
 
 1. **Usage:**
 
-<pre>
-cpy_recur.bat C:\folder1 C:\folder2
-</pre>
+    <pre>
+    cpy_recur.bat C:\folder1 C:\folder2
+    </pre>
 
 2. **Flag Explanation:**
     1. **/e** - Copies directories and subdirectories, including empty ones.
