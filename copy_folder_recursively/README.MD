@@ -1,8 +1,8 @@
 <h3>1. cpy_recur.bat</h3>
-**Usage:**
-<pre>
-cpy_recur.bat C:\folder1 C:\folder2
-</pre>
+<h4>Usage:</h4>
+ <pre>
+ cpy_recur.bat C:\folder1 C:\folder2
+ </pre>
 
 **Flag explanation:**
 1. /e Copies directories and subdirectories, including empty ones.
