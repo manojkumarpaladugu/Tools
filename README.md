@@ -1,4 +1,4 @@
 # Utilities
 
 ## LogParser.py
-#### Usage: python3 LogParser.py -i debug_messages.log -o output.csv
+#### Usage: python3 LogParser.py -i warnings.log -o output.csv
