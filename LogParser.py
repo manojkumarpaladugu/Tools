@@ -2,7 +2,7 @@ import re
 import sys
 
 error_warning_list ={ "Error" : [], "Warning" : [] }
-warning_exception_list = [ "C3912W", "C9962I", "L9962I", "A9962I", "#1-D", "#177-D", "#550-D" ]
+warning_exception_list = [ ]
 error_exception_list = [ ]
 
 def isExcept(code, exceptionList):
