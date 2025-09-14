@@ -1,0 +1,20 @@
+{
+    "Output Header" : [
+        "Number of shares",
+        "Purchase date (MM/DD/YYYY)",
+        "Purchase price (USD)",
+        "Purchase Amount (USD)",
+        "USD to INR on purchase date",
+        "Purchase amount (INR)",
+        "Holding Days",
+        "Sale date (MM/DD/YYYY)",
+        "Sale price (USD)",
+        "Sale amount (USD)",
+        "USD to INR on sale date",
+        "Sale amount (INR)",
+        "Bank transaction date (MM/DD/YYYY)",
+        "Capital gains (INR)",
+        "Amount credited in bank (INR)",
+        "Difference (INR)"
+    ]
+}

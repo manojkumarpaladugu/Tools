@@ -1,0 +1,7 @@
+Number of shares,Purchase date (MM/DD/YYYY),Purchase price (USD),Purchase Amount (USD),USD to INR on purchase date,Purchase amount (INR),Holding Days,Sale date (MM/DD/YYYY),Sale price (USD),Sale amount (USD),USD to INR on sale date,Sale amount (INR),Bank transaction date (MM/DD/YYYY),Capital gains (INR),Amount credited in bank (INR),Difference (INR)
+1.0,1/15/2024,65.68,65.68,82.85,5441.79,,,,,,,,,,
+2.0,4/15/2024,67.88,135.76,83.44,11328.11,,,,,,,,,,
+3.0,6/7/2024,67.99,203.97,83.43,17016.34,,,,,,,,,,
+4.0,7/15/2024,73.6,294.40,83.57,24601.77,,,,,,,,,,
+5.0,10/15/2024,79.41,397.05,84.07,33381.42,,,,,,,,,,
+6.0,12/6/2024,113.51,681.06,84.66,57657.04,25,12/31/2024,115.0,690.00,85.62,59080.01,01/03/2025,1422.97,59000.0,-80.01

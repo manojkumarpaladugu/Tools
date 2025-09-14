@@ -1,0 +1,7 @@
+Number of shares,Purchase date (MM/DD/YYYY),Purchase price (USD),Sale date (MM/DD/YYYY),Sale price (USD),Bank transaction date (MM/DD/YYYY),Amount credited in bank (INR)
+1,1/15/2024,65.68
+2,4/15/2024,67.88
+3,6/7/2024,67.99
+4,7/15/2024,73.60
+5,10/15/2024,79.41
+6,12/6/2024,113.51,12/31/2024,115.00,01/03/2025,59000

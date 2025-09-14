@@ -1,0 +1,24 @@
+{
+    "Output Header" : [
+        "Country/Region name",
+        "Country Name and Code",
+        "Name of entity",
+        "Address of entity",
+        "ZIP Code",
+        "Nature of entity",
+        "Date of acquiring the interest",
+        "Initial value of the investment",
+        "Peak value of investment during the Period",
+        "Closing balance",
+        "Total gross amount paid/credited with respect to the holding during the period",
+        "Total gross proceeds from sale or redemption of investment during the period"
+    ],
+    "MRVL": {
+        "Country/Region name" : "United States of America",
+        "Country Name and Code" : "2",
+        "Name of entity" : "Marvell Technology Inc",
+        "Address of entity" : "5488 Marvell Lane Santa Clara California",
+        "ZIP Code" : "95054",
+        "Nature of entity" : "Listed company"
+    }
+}
